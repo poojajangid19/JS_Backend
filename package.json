@@ -1,0 +1,19 @@
+{
+  "name": "jsbackend",
+  "version": "1.0.0",
+  "description": "learning js backend",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "pooja jangid",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
